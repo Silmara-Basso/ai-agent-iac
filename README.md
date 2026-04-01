@@ -20,8 +20,10 @@ File Structure:
 
 - Create a file called .env in the root of your project (at the same level as docker-compose.yml).
 - Open the .env file and add your OpenAI API key: OPENAI_API_KEY=your_key
+```
 OPENAI_API_KEY=TOKEN_OPENAI_HERE
 OPENAI_API_BASE-https://api.openai.com/v1/
+```
 
 # Build and Run the Docker Container
 
